@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+        crossorigin="anonymous" />
+    <link rel="stylesheet" href="css/style.css">
+    <title>Custom Messenger Theme</title>
+    
+
+</head>
+
+<body>
+<main>
+
+    <div class="header">
+        <img src="./img/msg.png" width="39" height="39" alt="Logo">
+        <h2>Custom Messenger Theme</h2>
+
+        <!-- ^    add Title      -->
+
+        <i class="fas fa-question-circle"></i>
+    </div>
+
+    <div class="inputs">
+
+        <div class="input-label">
+            <div class="inline">
+                <p>Primary Color</p>
+                <input type="color" id="primary-color">
+            </div>
+            <div class="inline">
+                <input type="text" id="primary" placeholder="#000000">
+            </div>
+        </div>
+
+        <div class="input-label">
+            <div class="inline">
+                <p>Secondary Color</p>
+                <input type="color" id="secondary-color">
+            </div>
+            <div class="inline">
+                <input type="text" id="secondary" placeholder="#000000">
+            </div>
+        </div>
+
+        <div class="input-label">
+            <div class="inline">
+                <p>Text Color</p>
+                <input type="color" id="text-color">
+            </div>
+            <div class="inline">
+                <input type="text" id="text" placeholder="#FFFFFF">
+            </div>
+        </div>
+
+        <div class="input-label">
+            <div class="inline">
+                <p>Image URL</p>
+                <i class="fas fa-question-circle"
+                    title="Add URL to img or leave empty to display your primary color"></i>
+            </div>
+            <div class="inline">
+                <input type="text" id="bg-url" placeholder="https://image.png">
+            </div>
+        </div>
+    </div>
+
+    <h4>Preview</h4>
+    <div class="preview">
+        <div class="preview-left">
+            <p>Chats</p>
+        </div>
+        <div class="preview-top">
+            <p>Full Name</p>
+        </div>
+        <div class="preview-menu"></div>
+        <div class="preview-bg"></div>
+    </div>
+
+    <div class="buttons">
+        <button id="random">Random</button>
+        <button id="save">Save Changes</button>
+    </div>
+
+    <div class="footer">
+        <p>
+            If you want to contribute to the development of the application and donate me click <a href="#@">here</a>.
+        </p>
+        <div class="icons">
+            <!-- ^    add Title      -->
+
+            <a href="https://github.com/kubo550" target="_blank">
+                <i class="fab fa-github git"></i>
+            </a>
+            <a href="">
+                <i class="fab fa-facebook-messenger mess"></i>
+            </a>
+            <a href="">
+                <i class="fab fa-google google"></i>
+            </a>
+            <a href="">
+                <i class="fab fa-facebook mess"></i>
+            </a>
+        </div>
+    </div>
+
+</main>
+    <script defer src="popup.js"></script>
+
+</body>
+
+</html>
