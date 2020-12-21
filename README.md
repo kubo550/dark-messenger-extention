@@ -1,3 +1,8 @@
+# Temporarily Not Working!
+
+Messenger has recently a update witch blocks the scripts, (atleast in my country), we need to wait until messenger will release a stable version.
+If you have any questions ask me on my private [messenger](https://www.messenger.com/t/100005543894347)
+
 # Custom Your Messenger Theme
 
 You can freely change colors of your messenger app!
