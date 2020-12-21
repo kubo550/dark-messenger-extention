@@ -1,5 +1,6 @@
 # Temporarily Not Working!
 
+Don't follow these steps before update! It Won't work for now.
 Messenger has recently a update witch blocks the scripts, (atleast in my country), we need to wait until messenger will release a stable version.
 If you have any questions ask me on my private [messenger](https://www.messenger.com/t/100005543894347)
 
@@ -30,3 +31,11 @@ How to instal it?
 
  1. Make a new folder on your desktop or in your files.
  1. Open the zip (just left-click it twice) and copy and paste ALL the files (there should be 2 separate folders and 5-6 files) from the ZIP to the folder that you created.
+
+## Don't Work? 
+
+MAKE SURE TO REFRESH THE EXTENSION WHEN THE GAME UPDATES
+
+# Any Questions?
+
+Ask me on my private [messenger](https://www.messenger.com/t/100005543894347)
