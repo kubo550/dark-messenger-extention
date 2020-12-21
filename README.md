@@ -10,4 +10,13 @@ Preview my private messenger with own settings
 ## Download 
 
 1. Go to the [dowload page](https://www.facebook.com/).
-1. Download zip file on your computer.
+1. Download the ZIP file on your computer.
+
+## Instalation
+
+How to instal it? 
+ 1. Extract the ZIP file into a folder.
+ 1. Open Chrome*, and enter "chrome://extensions" in the address bar, or get to extensions via settings.
+ 1. Once you have gotten to extensions, click the button on the top right labeled "developer mode" to turn on Dev Mode.
+ 1. Now on the top left corner, there is a button labeled "load unpacked". Click that and select the folder in which you extracted the messegner custom app.
+ 1. Go to the messenger.com and refresh the page! (To use Your theme you must refresh always on first time when you open messenger).
