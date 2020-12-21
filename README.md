@@ -20,3 +20,8 @@ How to instal it?
  1. Once you have gotten to extensions, click the button on the top right labeled "developer mode" to turn on Dev Mode.
  1. Now on the top left corner, there is a button labeled "load unpacked". Click that and select the folder in which you extracted the messegner custom app.
  1. Go to the messenger.com and refresh the page! (To use Your theme you must refresh always on first time when you open messenger).
+
+## Extraction
+
+ 1. Make a new folder on your desktop or in your files.
+ 1. Open the zip (just left-click it twice) and copy and paste ALL the files (there should be 2 separate folders and 5-6 files) from the ZIP to the folder that you created.
