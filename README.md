@@ -36,6 +36,10 @@ How to instal it?
 
 MAKE SURE TO REFRESH THE EXTENSION WHEN THE GAME UPDATES
 
-# Any Questions?
+## Any Questions?
 
 Ask me on my private [messenger](https://www.messenger.com/t/100005543894347)
+
+# For Developers 
+
+This Project is an **open source**, you can modify files on your desktop
