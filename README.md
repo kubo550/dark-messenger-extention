@@ -1,4 +1,3 @@
 # Custom Your Messenger Theme
 
----
-still in develop stage
+You can freely change colors of your messenger app!
