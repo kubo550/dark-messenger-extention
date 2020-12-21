@@ -1,4 +1,4 @@
-# Change Your Messenger Theme
+# Custom Your Messenger Theme
 
 ---
 still in develop stage
