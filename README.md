@@ -4,6 +4,7 @@ Don't follow these steps before update! It Won't work for now.
 Messenger has recently a update witch blocks the scripts, (atleast in my country), we need to wait until messenger will release a stable version.
 If you have any questions ask me on my private [messenger](https://www.messenger.com/t/100005543894347).
 
+1
 # Custom Your Messenger Theme
 
 You can freely change colors of your messenger app!
